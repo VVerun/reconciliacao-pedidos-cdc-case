@@ -1,0 +1,24 @@
+id_pedido,tipo_divergencia,status_origem,status_destino,valor_origem,valor_destino
+10020,Divergencia de Valor,ENTREGUE,ENTREGUE,2448.01,2447.98
+10022,Divergencia de Status,CANCELADO,ENVIADO,1098.82,1098.82
+10028,Pedido Faltante no Destino,PAGO,,2496.64,
+10031,Divergencia de Valor,NOVO,NOVO,1178.43,1178.42
+10032,Divergencia de Status,CANCELADO,NOVO,5049.1,5049.1
+10045,Divergencia de Valor,NOVO,NOVO,1700.76,1700.77
+10050,Divergencia de Valor e Status,PAGO,CANCELADO,3674.19,3563.92
+10054,Divergencia de Valor e Status,ENVIADO,PAGO,3792.64,4096.05
+10064,Divergencia de Valor,PAGO,PAGO,1195.8,0.0
+10075,Divergencia de Valor,CANCELADO,CANCELADO,3724.27,3896.37
+10079,Divergencia de Status,ENVIADO,NOVO,516.0,516.0
+10080,Pedido Faltante no Destino,PAGO,,2047.36,
+10084,Divergencia de Valor,CANCELADO,CANCELADO,761.05,815.5
+10093,Divergencia de Status,ENTREGUE,PAGO,1065.94,1065.94
+10098,Divergencia de Valor,ENTREGUE,ENTREGUE,2033.93,0.0
+10099,Pedido Faltante no Destino,ENTREGUE,,190.47,
+10105,Divergencia de Valor e Status,PAGO,ENVIADO,6125.21,6615.23
+10107,Divergencia de Status,CANCELADO,ENVIADO,637.44,637.44
+10116,Pedido Faltante no Destino,PAGO,,5031.75,
+10119,Divergencia de Valor,PAGO,PAGO,2606.28,0.0
+10127,Divergencia de Status,ENVIADO,NOVO,4688.94,4688.94
+10135,Pedido Faltante no Destino,ENVIADO,,1407.42,
+10141,Divergencia de Valor,PAGO,PAGO,2840.77,2840.78
